@@ -1,0 +1,11 @@
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\bin\Debug\RefuerzoUES2.exe.config
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\bin\Debug\RefuerzoUES2.exe
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\bin\Debug\RefuerzoUES2.pdb
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\obj\Debug\RefuerzoUES2.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\obj\Debug\RefuerzoUES2.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\obj\Debug\RefuerzoUES2.Form1.resources
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\obj\Debug\RefuerzoUES2.Properties.Resources.resources
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\obj\Debug\RefuerzoUES2.csproj.GenerateResource.cache
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\obj\Debug\RefuerzoUES2.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\obj\Debug\RefuerzoUES2.exe
+C:\Users\edwin\source\repos\RefuerzoUES2\RefuerzoUES2\obj\Debug\RefuerzoUES2.pdb
